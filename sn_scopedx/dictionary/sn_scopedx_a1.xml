@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="a1" max_length="40" name="sn_scopedx_a1" type="collection">
         <element label="a1" max_length="40" name="a1" type="string"/>
+        <element label="A1 1" max_length="40" name="a1_1" type="string"/>
     </element>
 </database>
