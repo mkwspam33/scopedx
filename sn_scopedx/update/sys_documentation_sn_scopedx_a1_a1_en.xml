@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="a1" label="A1" language="en" table="sn_scopedx_a1">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <claim/>
+            <element>a1</element>
+            <help/>
+            <hint/>
+            <label>A1</label>
+            <language>en</language>
+            <name>sn_scopedx_a1</name>
+            <plural>A1s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-29 21:44:58</sys_created_on>
+            <sys_id>30091c9f77220010ca3ab5b2681061e0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>A1</sys_name>
+            <sys_package display_value="ScopedX" source="sn_scopedx">d3a8d49f77220010ca3ab5b2681061d0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ScopedX">d3a8d49f77220010ca3ab5b2681061d0</sys_scope>
+            <sys_update_name>sys_documentation_sn_scopedx_a1_a1_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-29 21:44:58</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
